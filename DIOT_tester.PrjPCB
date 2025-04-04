@@ -355,6 +355,18 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNCPUNHF
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DIOT_tester\panel\_ExportIDF\Panel_DIOT_Tester.brd
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for DIOT_tester\panel\_AutoCAD PCB\Panel_DIOT_Tester.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for DIOT_tester\panel\_ExportSTEP\Panel_DIOT_Tester.step
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Address1
 Value=Warsaw University of Technology
